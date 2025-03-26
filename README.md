@@ -111,6 +111,20 @@ python process_current_captcha.py --css-file "你的CSS文件路径"
 - 用箭头连接初始位置和目标位置
 - 标注实际的移动距离
 - 生成匹配算法的热力图
+  ![captcha_top_131 548_1742905760_bg_preserved_ratio](https://github.com/user-attachments/assets/c51487b1-237e-444f-9641-9e11b8d513ec)
+![captcha_top_131 548_1742905760_slider_raw](https://github.com/user-attachments/assets/459fbd01-34e3-4b67-8ef3-239d404ceae4)
+
+![captcha_top_131 548_1742905760_slider_fixed](https://github.com/user-attachments/assets/c5555666-7285-4873-83e9-5180573b82ff)
+
+![slider_edges_fixed](https://github.com/user-attachments/assets/2d2d3bb9-0625-45a3-866f-b004b749b0e4)
+
+
+  ![bg_edges_fixed](https://github.com/user-attachments/assets/5c813508-d2b0-4112-8269-e8b28de6f751)
+  
+![match_heatmap_with_offset](https://github.com/user-attachments/assets/4be34a46-bd86-423c-9fec-1503b6a61152)
+
+  ![match_result_with_offset](https://github.com/user-attachments/assets/404177c6-4256-4996-99e2-0c4f9f72453c)
+
 
 ## 实际应用
 
