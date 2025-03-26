@@ -1,0 +1,15 @@
+{
+    "timestamp": 1742905760,
+    "bg_url": "https://turing.captcha.qcloud.com/cap_union_new_getcapbysig?img_index=1&image=0279050000305c1900000015022f5976372b&sess=s0KnU19QMDFT6wloAN9OUTe0WAwQJyF1aisLQaJmMTuCs1dEh0r2OOezNYsmK7xrcLY6eFc1aoReG1HrjK-TM4ibwuZrDrclWLJPFdCyUWmPDYlJxcDkxbG3FlLTvfRmgj6vHwG3y-dsvtZpFP4hixgQYOKd2LUEfUsd34oZ_lO_5N00u3B8Nfd06pO7NYC9Rn2KxAdFAT06Ja6fJIrkqthQWaWHbrsTaGc_Hf6ZWJIgixl7xUoyJyyLtI5mvYyBuMr6hY0jbVwe6gyCF6wo2tfVYS8iEjq0xYwb8UGLpu6SYHpbfNrelYeOew04_komzcMvWWlVnB5U6zOTCNQTZs63ue_3NnVrS_l1KUYWgIdFoI8m7DCkuciklSThBxibcB",
+    "slider_url": "https://turing.captcha.qcloud.com/cap_union_new_getcapbysig?img_index=0&image=0279050000305c1900000015022f5976372b&sess=s0KnU19QMDFT6wloAN9OUTe0WAwQJyF1aisLQaJmMTuCs1dEh0r2OOezNYsmK7xrcLY6eFc1aoReG1HrjK-TM4ibwuZrDrclWLJPFdCyUWmPDYlJxcDkxbG3FlLTvfRmgj6vHwG3y-dsvtZpFP4hixgQYOKd2LUEfUsd34oZ_lO_5N00u3B8Nfd06pO7NYC9Rn2KxAdFAT06Ja6fJIrkqthQWaWHbrsTaGc_Hf6ZWJIgixl7xUoyJyyLtI5mvYyBuMr6hY0jbVwe6gyCF6wo2tfVYS8iEjq0xYwb8UGLpu6SYHpbfNrelYeOew04_komzcMvWWlVnB5U6zOTCNQTZs63ue_3NnVrS_l1KUYWgIdFoI8m7DCkuciklSThBxibcB",
+    "slider_position": {
+        "top": 131.548,
+        "left": 25.2976
+    },
+    "match_position": {
+        "x": 250,
+        "y": 166
+    },
+    "move_distance": 224.7024,
+    "confidence": 0.38341665267944336
+}
